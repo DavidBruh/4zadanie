@@ -1,0 +1,93 @@
+.root
+{
+    background-color:#C42635;
+}
+header
+{
+    background-color: #252525;
+}
+.logo
+{
+    width: 100px;
+    height: 100px;
+}
+ol
+{
+    color:#C9C9C9;
+}
+label
+{
+    color:#C9C9C9;
+}
+header h1
+{
+    color:#C9C9C9;
+}
+p
+{
+    color:#C9C9C9;
+}
+
+a
+{
+    color:#C9C9C9;
+}
+.nav2
+{
+    color: #C9C9C9;
+}
+footer
+{
+    background-color: #292929;
+    margin: 0;
+}
+.front-block {
+    border: 1px solid rgba(255, 255, 255, .2);
+    border-radius: 15px;
+}
+.mainmain
+{
+
+    border-radius: 30px;
+
+}
+
+main
+{
+
+
+}
+input, select, textarea
+{
+    color: #151515;
+    background-color: #606060;
+}
+textarea:focus, input:focus
+{
+    color:white; background-color: #151515;
+}
+table
+{
+    color:#999999;
+}
+.stroka
+{
+    background-color: #151515
+}
+table
+{
+    border: 1px solid white;
+}
+caption
+{
+    border: 1px double white;
+}
+th {
+    border: 2px solid white;
+}
+td {
+    border: 2px solid white;
+}
+.front-block {
+    border-radius: 30px;
+}
